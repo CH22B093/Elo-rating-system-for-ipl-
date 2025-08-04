@@ -33,6 +33,7 @@ The core of this project is its custom-tailored Elo rating system. Here’s how 
 ├── Elo_rating_system_for_IPL_Teams.ipynb
 ├── data/
 │   └── matches.csv
+```
 
 ## 🚀 Getting Started
 
