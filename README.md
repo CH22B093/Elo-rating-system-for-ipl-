@@ -1,9 +1,5 @@
 # 🏏 Elo Rating System for IPL Teams
 
-[
-[
-[
-
 This project introduces a sophisticated Elo rating system specifically designed for Indian Premier League (IPL) teams. It moves beyond simple win/loss records to provide a nuanced, dynamic measure of team strength and performance. By factoring in match context, margin of victory, and home-field advantage, the system offers deep insights into the competitive landscape of the IPL. Furthermore, it leverages this rating system to power a predictive machine learning model for forecasting future match outcomes.
 
 ## 🌟 Key Features
